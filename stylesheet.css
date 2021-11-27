@@ -33,9 +33,11 @@ form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 
 .bar-24-black-444 { background-color:#444; color: #ccc;}
 
-.CellBackground_DDD {border: 2px solid; color:#000; background-color: #ddd; border-color: #bbb; border-top-color:#eee; border-left-color:#eee; }
-.CellBackground_999 {border: 2px solid;	color:#ccc;	background-color: #999; border-color: #777;	border-top-color:#bbb;	border-left-color:#bbb; }
+.CellBackground_000 {border: 2px solid; color:#ccc; background-color:#000; border-color: #222; border-top-color:#444; border-left-color:#444; }
 .CellBackground_444 {border: 2px solid; color:#ccc; background-color:#444; border-color: #333; border-top-color:#555; border-left-color:#555; }
+.CellBackground_999 {border: 2px solid;	color:#ccc;	background-color: #999; border-color: #777;	border-top-color:#bbb;	border-left-color:#bbb; }
+.CellBackground_DDD {border: 2px solid; color:#000; background-color: #ddd; border-color: #bbb; border-top-color:#eee; border-left-color:#eee; }
+
 .CellBackground_cyan {border: 2px solid; color:#fff; background-color:#09F; border-color: #06F; border-top-color:#0CF; border-left-color:#0CF; }
 .CellBackground_Purple {border: 2px solid; color:#fff; background-color:#4d416b; border-color: #302943; border-top-color:#605185; border-left-color:#605185; }
 .CellBackground_Black {border: 2px solid; color:#fff; background-color: #555; border-color: #333; border-top-color:#666; border-left-color:#666;}
