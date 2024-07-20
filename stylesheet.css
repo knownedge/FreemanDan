@@ -10,30 +10,36 @@ form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 
 .bar-16-orange { background-color:#fc0; background-image: url("images/bar-16-orange.gif"); color: #000; font-size:11;}
 .bar-24-orange { background-color:#fc0; background-image: url("images/bar-24-orange.gif"); color: #000; font-size:20;}
+.bar-32-orange { background-color:#fc0; background-image: url("images/bar-24-orange.gif"); color: #000; font-size:20;}
 .bar-40-orange { background-color:#fc0; background-image: url("images/bar-40-orange.gif"); color: #000; font-size:30;}
 .bar-64-orange { background-color:#fc0; background-image: url("images/bar-64-orange.gif"); color: #000; font-size:30;}
 .bar-16-orange2 { background-color:#f90; background-image: url("images/bar-16-dorange.gif"); color: #4D416B; font-size:11;}
 .bar-24-orange2 { background-color:#f90; background-image: url("images/bar-24-dorange.gif"); color: #4D416B; font-size:20;}
+.bar-32-orange2 { background-color:#f90; background-image: url("images/bar-24-dorange.gif"); color: #4D416B; font-size:20;}
 .bar-40-orange2 { background-color:#f90; background-image: url("images/bar-40-dorange.gif"); color: #4D416B; font-size:30;}
 .bar-64-orange2 { background-color:#f90; background-image: url("images/bar-64-dorange.gif"); color: #4D416B; font-size:30;}
 
 .bar-16-purple { background-color:#483D65; background-image: url("images/bar-16-dpurple.gif"); color: #fc0; font-size:11}
 .bar-24-purple { background-color:#483D65; background-image: url("images/bar-24-dpurple.gif"); color: #fc0; font-size:20}
+.bar-32-purple { background-color:#483D65; background-image: url("images/bar-24-dpurple.gif"); color: #fc0; font-size:20}
 .bar-40-purple { background-color:#483D65; background-image: url("images/bar-40-dpurple.gif"); color: #fc0; font-size:30}
 .bar-64-purple { background-color:#483D65; background-image: url("images/bar-64-dpurple.gif"); color: #fc0; font-size:30}
 
 .bar-16-green { background-color:#090; background-image: url("images/bar-16-green.gif"); color: #fff; font-size:11}
 .bar-24-green { background-color:#090; background-image: url("images/bar-24-green.gif"); color: #fff; font-size:20}
+.bar-32-green { background-color:#090; background-image: url("images/bar-24-green.gif"); color: #fff; font-size:20}
 .bar-40-green { background-color:#090; background-image: url("images/bar-40-green.gif"); color: #fff; font-size:30}
 .bar-64-green { background-color:#090; background-image: url("images/bar-64-green.gif"); color: #fff; font-size:30}
 
 .bar-16-white { background-color:#ccc; background-image: url("images/bar-16-white.gif"); color: #000; font-size:11}
 .bar-24-white { background-color:#ccc; background-image: url("images/bar-24-white.gif"); color: #000; font-size:20}
+.bar-32-white { background-color:#ccc; background-image: url("images/bar-24-white.gif"); color: #000; font-size:20}
 .bar-40-white { background-color:#ccc; background-image: url("images/bar-40-white.gif"); color: #000; font-size:30}
 .bar-64-white { background-color:#ccc; background-image: url("images/bar-64-white.gif"); color: #000; font-size:30}
 
 .bar-16-black { background-color:#444; background-image: url("images/bar-16-black.gif"); color: #ccc; font-size:11}
 .bar-24-black { background-color:#444; background-image: url("images/bar-24-black.gif"); color: #ccc; font-size:20}
+.bar-32-black { background-color:#444; background-image: url("images/bar-24-black.gif"); color: #ccc; font-size:20}
 .bar-40-black { background-color:#444; background-image: url("images/bar-40-black.gif"); color: #ccc; font-size:30}
 .bar-64-black { background-color:#444; background-image: url("images/bar-64-black.gif"); color: #ccc; font-size:30}
 
