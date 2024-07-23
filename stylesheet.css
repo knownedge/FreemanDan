@@ -19,6 +19,18 @@ form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 .bar-40-orange2 { background-color:#f90; background-image: url("images/bar-40-dorange.gif"); color: #4D416B; font-size:30;}
 .bar-64-orange2 { background-color:#f90; background-image: url("images/bar-64-dorange.gif"); color: #4D416B; font-size:30;}
 
+.bar-16-gold { background-color:#fc0; background-image: url("images/bar-16-gold.gif"); color: #000; font-size:11;}
+.bar-24-gold { background-color:#fc0; background-image: url("images/bar-24-gold.gif"); color: #000; font-size:20;}
+.bar-32-gold { background-color:#fc0; background-image: url("images/bar-24-gold.gif"); color: #000; font-size:20;}
+.bar-40-gold { background-color:#fc0; background-image: url("images/bar-40-gold.gif"); color: #000; font-size:30;}
+.bar-64-gold { background-color:#fc0; background-image: url("images/bar-64-gold.gif"); color: #000; font-size:30;}
+
+.bar-16-silver { background-color:#fc0; background-image: url("images/bar-16-silver.gif"); color: #000; font-size:11;}
+.bar-24-silver { background-color:#fc0; background-image: url("images/bar-24-silver.gif"); color: #000; font-size:20;}
+.bar-32-silver { background-color:#fc0; background-image: url("images/bar-24-silver.gif"); color: #000; font-size:20;}
+.bar-40-silver { background-color:#fc0; background-image: url("images/bar-40-silver.gif"); color: #000; font-size:30;}
+.bar-64-silver { background-color:#fc0; background-image: url("images/bar-64-silver.gif"); color: #000; font-size:30;}
+
 .bar-16-purple { background-color:#483D65; background-image: url("images/bar-16-dpurple.gif"); color: #fc0; font-size:11}
 .bar-24-purple { background-color:#483D65; background-image: url("images/bar-24-dpurple.gif"); color: #fc0; font-size:20}
 .bar-32-purple { background-color:#483D65; background-image: url("images/bar-24-dpurple.gif"); color: #fc0; font-size:20}
@@ -88,6 +100,9 @@ a.treelink2:hover {text-decoration: underline; color: #090;}
 .TextColor_ff0 {color: #ff0;}
 .TextColor_f00 {color: #f00;}
 .TextColor_000 {color: #000;}
+.TextColor_gold {color: #BFA479; text-shadow: 2px 2px 0 #000;}
+
+
 
 
 a:link { color: #483D65; text-decoration: none; }
