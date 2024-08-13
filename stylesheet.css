@@ -6,13 +6,15 @@ body { font-family: Verdana, Arial, Helvetica, sans-serif; margin:0; background-
 
 form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 
-.TableBorder_Dark {border: 4px solid; color:#ccc; background-color:#4444; border-color: #3333; border-top-color:#5555; border-left-color:#5555; }
+.TableBorder_Dark {border: 4px solid; color:#ccc; background-color:#444; border-color: #333; border-top-color:#555; border-left-color:#555; }
+.TableBorder_Dark_inset {border: 4px solid; color:#ccc; background-color:#333; border-color: #222; border-top-color:#222; border-left-color:#222;}
 
 .bar-16-orange { background-color:#fc0; background-image: url("images/bar-16-orange.gif"); color: #000; font-size:11;}
 .bar-24-orange { background-color:#fc0; background-image: url("images/bar-24-orange.gif"); color: #000; font-size:20;}
 .bar-32-orange { background-color:#fc0; background-image: url("images/bar-24-orange.gif"); color: #000; font-size:20;}
 .bar-40-orange { background-color:#fc0; background-image: url("images/bar-40-orange.gif"); color: #000; font-size:30;}
 .bar-64-orange { background-color:#fc0; background-image: url("images/bar-64-orange.gif"); color: #000; font-size:30;}
+
 .bar-16-orange2 { background-color:#f90; background-image: url("images/bar-16-dorange.gif"); color: #4D416B; font-size:11;}
 .bar-24-orange2 { background-color:#f90; background-image: url("images/bar-24-dorange.gif"); color: #4D416B; font-size:20;}
 .bar-32-orange2 { background-color:#f90; background-image: url("images/bar-24-dorange.gif"); color: #4D416B; font-size:20;}
@@ -59,6 +61,7 @@ form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 
 .CellBackground_000 {border: 2px solid; color:#ccc; background-color:#000; border-color: #222; border-top-color:#444; border-left-color:#444; }
 .CellBackground_444 {border: 2px solid; color:#ccc; background-color:#444; border-color: #333; border-top-color:#555; border-left-color:#555; }
+.CellBackground_Gold {border: 2px solid; color:#ccc; background-color:#C2B4A6; border-color: #685441; border-top-color:#A89481; border-left-color:#A89481; }
 .CellBackground_999 {border: 2px solid;	color:#ccc;	background-color: #999; border-color: #777;	border-top-color:#bbb;	border-left-color:#bbb; }
 .CellBackground_DDD {border: 2px solid; color:#000; background-color: #ddd; border-color: #bbb; border-top-color:#eee; border-left-color:#eee; }
 
@@ -71,12 +74,12 @@ form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 
 .CellBackground_Dark {border: 2px solid; color:#000; background-color: #ddd; border-color: #bbb; border-top-color:#eee; border-left-color:#eee;}
 .CellBackground_Dark2 { border: 2px solid; color:#fff; background-color: #999; border-color: #777; border-top-color:#bbb; border-left-color:#bbb;}
+.CellBackground_Dark3 { border: 1px solid; color:#fff; background-color: #444; border-color: #555; border-top-color:#666; border-left-color:#666;}
+
 .CellBackground_Light { border: 2px solid; color:#000; background-color: #eee; border-color: #bbb; border-top-color:#FFF; border-left-color:#FFF;}
 .CellBackground_Highlight {	border: 2px solid; color:#fff; background-color:#09F; border-color: #06F; border-top-color:#0CF; border-left-color:#0CF;}
 .CellBackground_Highlight2 { border: 2px solid; color:#000; background-color:#FC0; border-color: #F90; border-top-color:#FE0; border-left-color:#FE0;}
 .CellBackground_Highlight3 { border: 2px solid; color:#FFF; background-color:#0B0; border-color: #090; border-top-color:#0E0; border-left-color:#0E0;}
-
-
 
 
 .text-size-10 {font-size:10;}
@@ -95,20 +98,29 @@ a.treelink2:active {text-decoration: none; color: #090;}
 a.treelink2:hover {text-decoration: underline; color: #090;}
 
 
-.TextColor_f90 {color: #f90;}
-.TextColor_fc0 {color: #fc0;}
-.TextColor_ff0 {color: #ff0;}
-.TextColor_f00 {color: #f00;}
+.TextColor_f90 {color: #f90; text-shadow: 1px 1px 0 #940;}
+.TextColor_fc0 {color: #fc0; text-shadow: 1px 1px 0 #940;}
+.TextColor_ff0 {color: #ff0; text-shadow: 1px 1px 0 #940;}
+.TextColor_red {color: #f00; text-shadow: 1px 1px 0 #600;}
 .TextColor_000 {color: #000;}
 .TextColor_gold {color: #BFA479; text-shadow: 2px 2px 0 #000;}
-
-
+.TextColor_silver {color: #ccc; text-shadow: 2px 2px 0 #000;}
 
 
 a:link { color: #483D65; text-decoration: none; }
 a:visited {	color: #483D65; text-decoration: none; }
 a:hover { color: #483Dcc; text-decoration: underline; }
 a:active { color: #483Dcc; text-decoration: none; }
+
+A.Gold:link {text-decoration: none; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Gold:visited {text-decoration: none; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Gold:active {text-decoration: none; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Gold:hover {text-decoration: underline; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+
+.Image_Border_Gold {border: 3px solid; color:#ccc; background-color:#000; border-color: #827159; border-top-color:#5E5240; border-left-color:#5E5240;}
+
+
+
 
 A.menu1:link {text-decoration: none; color: #483D99;}
 A.menu1:visited {text-decoration: none; color: #483D99;}
