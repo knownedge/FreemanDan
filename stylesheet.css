@@ -11,49 +11,49 @@ form,h1,h2,h3,h4,li,hr,input,table,tr,td,th,pre { margin: 0 }
 
 .bar-16-orange { background-color:#fc0; background-image: url("images/bar-16-orange.gif"); color: #000; font-size:11;}
 .bar-24-orange { background-color:#fc0; background-image: url("images/bar-24-orange.gif"); color: #000; font-size:20;}
-.bar-32-orange { background-color:#fc0; background-image: url("images/bar-24-orange.gif"); color: #000; font-size:20;}
+.bar-32-orange { background-color:#fc0; background-image: url("images/bar-32-orange.gif"); color: #000; font-size:20;}
 .bar-40-orange { background-color:#fc0; background-image: url("images/bar-40-orange.gif"); color: #000; font-size:30;}
 .bar-64-orange { background-color:#fc0; background-image: url("images/bar-64-orange.gif"); color: #000; font-size:30;}
 
 .bar-16-orange2 { background-color:#f90; background-image: url("images/bar-16-dorange.gif"); color: #4D416B; font-size:11;}
 .bar-24-orange2 { background-color:#f90; background-image: url("images/bar-24-dorange.gif"); color: #4D416B; font-size:20;}
-.bar-32-orange2 { background-color:#f90; background-image: url("images/bar-24-dorange.gif"); color: #4D416B; font-size:20;}
+.bar-32-orange2 { background-color:#f90; background-image: url("images/bar-32-dorange.gif"); color: #4D416B; font-size:20;}
 .bar-40-orange2 { background-color:#f90; background-image: url("images/bar-40-dorange.gif"); color: #4D416B; font-size:30;}
 .bar-64-orange2 { background-color:#f90; background-image: url("images/bar-64-dorange.gif"); color: #4D416B; font-size:30;}
 
 .bar-16-gold { background-color:#fc0; background-image: url("images/bar-16-gold.gif"); color: #000; font-size:11;}
 .bar-24-gold { background-color:#fc0; background-image: url("images/bar-24-gold.gif"); color: #000; font-size:20;}
-.bar-32-gold { background-color:#fc0; background-image: url("images/bar-24-gold.gif"); color: #000; font-size:20;}
+.bar-32-gold { background-color:#fc0; background-image: url("images/bar-32-gold.gif"); color: #000; font-size:20;}
 .bar-40-gold { background-color:#fc0; background-image: url("images/bar-40-gold.gif"); color: #000; font-size:30;}
 .bar-64-gold { background-color:#fc0; background-image: url("images/bar-64-gold.gif"); color: #000; font-size:30;}
 
 .bar-16-silver { background-color:#999; background-image: url("images/bar-16-silver.gif"); color: #ccc; font-size:11;}
 .bar-24-silver { background-color:#999; background-image: url("images/bar-24-silver.gif"); color: #ccc; font-size:20;}
-.bar-32-silver { background-color:#999; background-image: url("images/bar-24-silver.gif"); color: #ccc; font-size:20;}
+.bar-32-silver { background-color:#999; background-image: url("images/bar-32-silver.gif"); color: #ccc; font-size:20;}
 .bar-40-silver { background-color:#999; background-image: url("images/bar-40-silver.gif"); color: #ccc; font-size:30;}
 .bar-64-silver { background-color:#999; background-image: url("images/bar-64-silver.gif"); color: #ccc; font-size:30;}
 
 .bar-16-purple { background-color:#483D65; background-image: url("images/bar-16-dpurple.gif"); color: #fc0; font-size:11}
 .bar-24-purple { background-color:#483D65; background-image: url("images/bar-24-dpurple.gif"); color: #fc0; font-size:20}
-.bar-32-purple { background-color:#483D65; background-image: url("images/bar-24-dpurple.gif"); color: #fc0; font-size:20}
+.bar-32-purple { background-color:#483D65; background-image: url("images/bar-32-dpurple.gif"); color: #fc0; font-size:20}
 .bar-40-purple { background-color:#483D65; background-image: url("images/bar-40-dpurple.gif"); color: #fc0; font-size:30}
 .bar-64-purple { background-color:#483D65; background-image: url("images/bar-64-dpurple.gif"); color: #fc0; font-size:30}
 
 .bar-16-green { background-color:#090; background-image: url("images/bar-16-green.gif"); color: #fff; font-size:11}
 .bar-24-green { background-color:#090; background-image: url("images/bar-24-green.gif"); color: #fff; font-size:20}
-.bar-32-green { background-color:#090; background-image: url("images/bar-24-green.gif"); color: #fff; font-size:20}
+.bar-32-green { background-color:#090; background-image: url("images/bar-32-green.gif"); color: #fff; font-size:20}
 .bar-40-green { background-color:#090; background-image: url("images/bar-40-green.gif"); color: #fff; font-size:30}
 .bar-64-green { background-color:#090; background-image: url("images/bar-64-green.gif"); color: #fff; font-size:30}
 
 .bar-16-white { background-color:#ccc; background-image: url("images/bar-16-white.gif"); color: #000; font-size:11}
 .bar-24-white { background-color:#ccc; background-image: url("images/bar-24-white.gif"); color: #000; font-size:20}
-.bar-32-white { background-color:#ccc; background-image: url("images/bar-24-white.gif"); color: #000; font-size:20}
+.bar-32-white { background-color:#ccc; background-image: url("images/bar-32-white.gif"); color: #000; font-size:20}
 .bar-40-white { background-color:#ccc; background-image: url("images/bar-40-white.gif"); color: #000; font-size:30}
 .bar-64-white { background-color:#ccc; background-image: url("images/bar-64-white.gif"); color: #000; font-size:30}
 
 .bar-16-black { background-color:#444; background-image: url("images/bar-16-black.gif"); color: #ccc; font-size:11}
 .bar-24-black { background-color:#444; background-image: url("images/bar-24-black.gif"); color: #ccc; font-size:20}
-.bar-32-black { background-color:#444; background-image: url("images/bar-24-black.gif"); color: #ccc; font-size:20}
+.bar-32-black { background-color:#444; background-image: url("images/bar-32-black.gif"); color: #ccc; font-size:20}
 .bar-40-black { background-color:#444; background-image: url("images/bar-40-black.gif"); color: #ccc; font-size:30}
 .bar-64-black { background-color:#444; background-image: url("images/bar-64-black.gif"); color: #ccc; font-size:30}
 
@@ -114,10 +114,15 @@ a:visited {	color: #483D65; text-decoration: none; }
 a:hover { color: #483Dcc; text-decoration: underline; }
 a:active { color: #483Dcc; text-decoration: none; }
 
-A.Gold:link {text-decoration: none; color: #BFA479; text-shadow: 1px 1px 0 #000;}
-A.Gold:visited {text-decoration: none; color: #BFA479; text-shadow: 1px 1px 0 #000;}
-A.Gold:active {text-decoration: none; color: #BFA479; text-shadow: 1px 1px 0 #000;}
-A.Gold:hover {text-decoration: underline; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Link-Gold:link {text-decoration: underline; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Link-Gold:visited {text-decoration: underline; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Link-Gold:active {text-decoration: underline; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+A.Link-Gold:hover {text-decoration: underline; color: #BFA479; text-shadow: 1px 1px 0 #000;}
+
+A.Link-Black:link {text-decoration: underline; color: #999; text-shadow: 1px 1px 0 #000;}
+A.Link-Black:visited {text-decoration: underline; color: #999; text-shadow: 1px 1px 0 #000;}
+A.Link-Black:active {text-decoration: underline; color: #999; text-shadow: 1px 1px 0 #000;}
+A.Link-Black:hover {text-decoration: underline; color: #ccc; text-shadow: 1px 1px 0 #000;}
 
 .Image_Border_Gold {border: 3px solid; color:#ccc; background-color:#000; border-color: #827159; border-top-color:#5E5240; border-left-color:#5E5240;}
 
@@ -179,7 +184,4 @@ A.button:hover {text-decoration: underline; color: #800;}
 .active:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
   font-size: 11px;
-
 }
-
-</style>
